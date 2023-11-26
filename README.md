@@ -1,4 +1,5 @@
 # E-mails Node.js
+
 ## Jak wysyłać e-maile za pomocą Nodemailera i SMTP
 **Zainstaluj nodemailera** <br>
 `npm install nodemailer` <br> <br>
@@ -29,3 +30,4 @@ transport.sendMail(message, function(err, info) {
     }});`
 
 ![obraz](https://github.com/juleryk/ZAW-spw-email-db/assets/90791529/bb8ca636-f9aa-4eb2-bce9-fda37161b321)
+[Zródlo z którego korzystałem](https://www.courier.com/blog/how-to-send-emails-with-node-js/)
