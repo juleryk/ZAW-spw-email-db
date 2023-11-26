@@ -27,3 +27,5 @@ transport.sendMail(message, function(err, info) {
     } else {
       console.log(info);
     }});`
+
+![obraz](https://github.com/juleryk/ZAW-spw-email-db/assets/90791529/bb8ca636-f9aa-4eb2-bce9-fda37161b321)
